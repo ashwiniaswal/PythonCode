@@ -1,0 +1,51 @@
+
+Tue Jan  1 02:42:50 2008 application run by user.
+Tue Jan  1 02:43:47 2008 user with acc no 1001 logged into account.
+Tue Jan  1 02:43:57 2008 user with acc no 1001 credited amount 34 into account.
+Tue Jan  1 02:44:09 2008 user with acc no 1001 checked balance which is 50034.
+Tue Jan  1 02:44:13 2008 user with acc no 1001 logged out.
+Tue Jan  1 02:45:42 2008 user with acc no 1001 logged into account.
+Tue Jan  1 02:46:01 2008 user with acc no 1001 logged out.
+Tue Jan  1 02:46:20 2008 new user is created with name ash password chia acc no 1005 balance 0 .
+Tue Jan  1 02:47:28 2008 user with acc no 1005 credited amount 34 into account.
+Tue Jan  1 02:47:37 2008 user with acc no 1005 debited amount 1 from account.
+Tue Jan  1 02:47:46 2008 user with acc no 1005 checked balance which is 33.
+Tue Jan  1 02:48:06 2008 user with acc no 1005 changed password which is aish.
+Tue Jan  1 02:48:06 2008 user with acc no 1005 logged out.
+Tue Jan  1 02:49:25 2008 admin logged in and checked detais
+Tue Jan  1 02:50:46 2008 application closed by user.
+ User with Account no. 1001 has logged in at Tue Jan  1 07:12:06 2008
+User with account number 1001 had withdrew 762966.23 money at Tue Jan  1 07:12:16 2008
+User with Account number 1001 had creditted 763000.23 money at Tue Jan  1 07:12:25 2008
+User with Account number 1001 had changed his old password to ash at Tue Jan  1 07:12:57 2008
+Admin Had logged in at Tue Jan  1 07:13:30 2008
+Admin Had logged in at Tue Jan  1 07:13:30 2008
+Admin Had logged in at Tue Jan  1 07:13:30 2008
+Admin Had logged in at Tue Jan  1 07:13:30 2008
+A new User had opened an Account with account number 1006, username ASH, with balance 20.0, and password asha at Tue Jan  1 07:17:43 2008
+Admin Had logged in at Tue Jan  1 07:18:58 2008
+Admin Had logged in at Tue Jan  1 07:18:58 2008
+Admin Had logged in at Tue Jan  1 07:18:58 2008
+Admin Had logged in at Tue Jan  1 07:18:58 2008
+ User with Account no. 1001 has logged in at Tue Jan  1 01:34:14 2008
+User with Account number 1001 had entered wromg password at Tue Jan  1 01:34:14 2008
+Admin had entered incorrect Username at Tue Jan  1 01:34:32 2008
+ User with Account no. 1001 has logged in at Sun Jun 10 12:19:56 2018
+User with Account number 1001 had entered wromg password at Sun Jun 10 12:19:56 2018
+ User with Account no. 1001 has logged in at Sun Jun 10 12:20:09 2018
+User with Account number 1001 had entered wromg password at Sun Jun 10 12:20:09 2018
+Amin had entered incorrect password at Sun Jun 10 12:20:23 2018
+Admin Had logged in at Sun Jun 10 12:22:03 2018
+Admin Had logged in at Sun Jun 10 12:22:03 2018
+Admin Had logged in at Sun Jun 10 12:22:03 2018
+Admin Had logged in at Sun Jun 10 12:22:03 2018
+ User with Account no. 1001 has logged in at Sun Jun 10 12:22:22 2018
+User with account number 1001 had withdrew 762650.23 money at Sun Jun 10 12:22:33 2018
+User with Account number 1001 had creditted 763000.23 money at Sun Jun 10 12:22:39 2018
+User with Account number 1001 had checked his balance which is 763000.23 at Sun Jun 10 12:22:46 2018
+User with Account number 1001 had changed his old password to python at Sun Jun 10 12:23:04 2018
+User with Account number 1001 had entered worng old password which was python at Sun Jun 10 12:23:15 2018
+Admin Had logged in at Sun Jun 10 12:23:36 2018
+Admin Had logged in at Sun Jun 10 12:23:36 2018
+Admin Had logged in at Sun Jun 10 12:23:36 2018
+Admin Had logged in at Sun Jun 10 12:23:36 2018
